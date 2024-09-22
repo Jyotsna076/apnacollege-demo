@@ -1,2 +1,3 @@
 # apnacollege-demo
-this is a my first github repo
+this is a my first github repo.
+Athor - jyotsna kushwaha
