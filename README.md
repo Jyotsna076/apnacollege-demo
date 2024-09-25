@@ -1,3 +1,3 @@
 # apnacollege-demo
 this is a my first github repo.<br>
-Athor - jyotsna kushwaha
+Athor - jyotsna (Apna College)
